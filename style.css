@@ -1,4 +1,4 @@
-body {
+.principal   {
     background: #a7a7a7;
 }
 
@@ -17,4 +17,16 @@ p {
 
 #banner {
    width: 100%;
+}
+
+.beneficios-titulo{
+        text-align: center; 
+}
+
+.itens {
+
+}
+
+.benefícios {
+    background-color : rgb(255, 255, 255)
 }
