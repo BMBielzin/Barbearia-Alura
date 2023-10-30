@@ -30,3 +30,18 @@ p {
 .benefícios {
     background-color : rgb(255, 255, 255)
 }
+
+ul {
+    display: inline-block;
+    width: 20%;
+    vertical-align: top;
+    margin-right: 15%;
+}
+
+.benefícios-imagem{
+    width: 50%;
+}
+
+.titulo{
+    padding-left: 20px;
+}
